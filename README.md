@@ -39,4 +39,4 @@ https://github.com/Inthroughder/Goosechaser-Releases
 
 ## Language certificats
 
-Academic IELTS 2024 report -- only on request (for security reasons).
+Academic IELTS 2024 eTRF -- only on request (for security reasons).
